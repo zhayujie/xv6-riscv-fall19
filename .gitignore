@@ -22,3 +22,4 @@ xv6.out*
 .vagrant/
 submissions/
 .DS_Store
+.vscode
