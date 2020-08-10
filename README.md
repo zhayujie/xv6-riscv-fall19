@@ -1,7 +1,7 @@
 
 # Branch Index
 
-- [Lab1 utilities](https://github.com/zhayujie/xv6-riscv-fall19/tree/util)
+- [Lab1 Utilities](https://github.com/zhayujie/xv6-riscv-fall19/tree/util)
 
 - Lab2 Shell
 
