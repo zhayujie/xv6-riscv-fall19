@@ -3,7 +3,7 @@
 
 - [Lab1 Utilities](https://github.com/zhayujie/xv6-riscv-fall19/tree/util)
 
-- Lab2 Shell
+- [Lab2 Shell](https://github.com/zhayujie/xv6-riscv-fall19/tree/sh)
 
 - Lab3 Allocator
 
