@@ -1,6 +1,9 @@
 
 # Branch Index
 
+This repository will stop updating and migrate to the new version: [xv6-labs-2020](https://github.com/zhayujie/xv6-labs-2020).
+
+
 - [Lab1 Utilities](https://github.com/zhayujie/xv6-riscv-fall19/tree/util)
 
 - [Lab2 Shell](https://github.com/zhayujie/xv6-riscv-fall19/tree/sh)
